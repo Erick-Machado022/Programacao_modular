@@ -1,0 +1,15 @@
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\bin\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.exe
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\bin\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.deps.json
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\bin\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.runtimeconfig.json
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\bin\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.dll
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\bin\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.pdb
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.GeneratedMSBuildEditorConfig.editorconfig
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.AssemblyInfoInputs.cache
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.AssemblyInfo.cs
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.csproj.CoreCompileInputs.cache
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.sourcelink.json
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.dll
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\refint\2026-05-06-tipos-de-valor-e-tipos-referenciados.dll
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.pdb
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\2026-05-06-tipos-de-valor-e-tipos-referenciados.genruntimeconfig.cache
+C:\modular\semana_12\2026-05-06-tipos-de-valor-e-tipos-referenciados\obj\Debug\net9.0\ref\2026-05-06-tipos-de-valor-e-tipos-referenciados.dll
